@@ -1,1 +1,1 @@
-
+to run the program run `./script.sh`
