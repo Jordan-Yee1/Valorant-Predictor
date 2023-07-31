@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Michael\Desktop\val-predict\Valorant-Predictor\.env
+set VIRTUAL_ENV=C:\Users\11jor\vs code\Val Prediction\Valorant-Predictor\.env
 
 if not defined PROMPT set PROMPT=$P$G
 

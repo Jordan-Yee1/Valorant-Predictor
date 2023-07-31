@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Michael\Desktop\val-predict\Valorant-Predictor\.env"
+VIRTUAL_ENV="C:\Users\11jor\vs code\Val Prediction\Valorant-Predictor\.env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
